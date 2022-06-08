@@ -8,7 +8,7 @@ module.exports = {
       email: 'admin@groupomania.group',
       admin: true,
       deleted: false,
-      password: '$2a$12$2kK46n9r3YvNy4llKpQfy.2IMhYcZADDto0IuAZpwB3KkSnP.W5qi',
+      password: '$2b$12$chJfTCR.ytlyHCcyq0GdMOwZI.OLaUakIAZLkRNugqP444P33G/Qq',
       createdAt: new Date(),
       updatedAt: new Date()
     }]);

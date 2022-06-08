@@ -2,7 +2,7 @@ import router from '../router/index'
 
 class ApiClient {
   constructor () {
-    this.baseUrl = 'http://localhost:3000/'
+    this.baseUrl = 'http://localhost:3300/'
   }
 
   headers (options = {}) {
